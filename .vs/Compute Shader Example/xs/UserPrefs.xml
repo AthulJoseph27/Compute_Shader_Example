@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{90A7FF69-3D61-EBD0-1BF2-E230E6C13795}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RandomShader.compute">
+    <Files>
+      <File FileName="Assets/Scripts/RandomShader.compute" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7c857519-2839-4d9d-b39c-6f7545d257b5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
