@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{047EEDB1-F405-716D-232D-B6833AB3F96C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RandomShader.compute">
+    <Files>
+      <File FileName="Assets/Scripts/ShaderTesting.cs" Line="93" Column="43" />
+      <File FileName="Assets/Scripts/Testing.compute" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/RandomShader.compute" Line="20" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4a5f9ddf-41bb-4411-87a1-d2ac706cec8d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
